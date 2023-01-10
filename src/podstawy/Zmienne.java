@@ -31,5 +31,11 @@ public class Zmienne {
 
         boolean sun = false; //true
 
+        //  https://github.com/przemjan/czwartajgr12023
+
+        // \\ubuckp\public\janisz
+
+        // 1, 2, 5, 6, 7, 8, 13, 16, 20, 21
+
     }
 }
